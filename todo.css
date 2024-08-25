@@ -1,0 +1,17 @@
+body{
+    text-align: center;
+}
+button{
+    margin-left: 2rem;
+    border: 2px solid black;
+    border-radius:20px;
+}
+input{
+    border:2px solid black;
+    border-radius: 10px;
+    background-color: gainsboro;
+}
+ul{
+    padding:auto;
+}
+
